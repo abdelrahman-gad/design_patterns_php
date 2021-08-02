@@ -1,0 +1,23 @@
+{
+    "name": "aburrahmangad/php-design-patterns",
+    "description": "Design Patterns example implementation in php",
+    "authors": [
+        {
+            "name": "abdelrahman azmy gad",
+            "email": "abdelrahmangad95@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
