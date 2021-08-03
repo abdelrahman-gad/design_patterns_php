@@ -1,7 +1,7 @@
 <?php 
 namespace Creational\AbstractFactory;
 
-class BenzCar implements BenzCar{
+class BenzCar implements CarInterface{
   private $price;
   private $tax;
   
