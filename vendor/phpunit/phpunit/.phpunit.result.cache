@@ -1,1 +1,1 @@
-{"version":1,"defects":{"Tests\\AbstractFactoryTest::testCanCreateBMWCar":4},"times":{"Tests\\AbstractFactoryTest::testCanCreateBMWCar":0.281}}
+{"version":1,"defects":{"Tests\\AbstractFactoryTest::testCanCreateBMWCar":4,"Tests\\BuilderTest::testProduceBMWCar":4,"Tests\\PrototypeTest::testCanCreateAutomaticCarsWithClone":4},"times":{"Tests\\AbstractFactoryTest::testCanCreateBMWCar":0.281,"Tests\\BuilderTest::testProduceBMWCar":0.06,"Tests\\PrototypeTest::testCanCreateAutomaticCarsWithClone":0.038}}
